@@ -1,0 +1,52 @@
+# 宮野真守 – Greed
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+全て賭けて手に入れるものが
+一つだけじゃ 足りないんだ I'm so greedy
+思い込みを 常識と呼んで
+信じるだけじゃ
+I'll never be what I wanna be
+誰も歩いていない道を拓くなら
+Gotta stay strong and aim for the future
+ブレないで行こう
+Shut the noise out, I'm the one
+Cause I'm the KING of my own life
+一度きりならLive it my way and grind
+I want it all, I want it all
+止まることはないMy greed
+Cause you're the QUEEN of your own life
+一度きりならLive it your way and choose it
+What do you want, what do you want?
+何も待つことはない
+Imma go for it
+夜明けを待って 立ち止まるよりも
+この道の先で 朝を迎えたいんだ
+誰かじゃない自分のLife生きるなら
+Gotta stay strong and aim for the future
+振り切って行こう
+Shut the noise out, I'm the one
+Cause I'm the KING of my own life
+一度きりならLive it my way and grind
+I want it all, I want it all
+止まることはないMy greed
+Cause you're the QUEEN of your own life
+一度きりならLive it your way and choose it
+What do you want, what do you want?
+何も待つことはない
+I got ice in the vein 走り続けてGain
+手に入れるまで
+Be a go getter
+Be a go getter to make your life better
+Cause I'm the KING of my own life
+一度きりならLive it my way and grind
+I want it all ...
+止まることはないMy greed
+I want it all, I want it all ...
+Cause you're the QUEEN of your own life
+一度きりならLive it your way and choose it
+What do you want, what do you want?
+何も待つことはない
+Imma go for it
+```
