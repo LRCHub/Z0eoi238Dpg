@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Greed",
+  "base_artist": "宮野真守",
+  "createdAt": "2026-01-06T20:57:11.959429Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Greed",
+      "artist": "MIKE feat. Standing On The Corner",
+      "has_synced": false,
+      "path": "select/01_Greed_MIKE_feat._Standing_On_The_Corner.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "GREED w/ Standing on The Corner",
+      "artist": "MIKE",
+      "has_synced": false,
+      "path": "select/02_GREED_w__Standing_on_The_Corner_MIKE.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Greed Hate Envy",
+      "artist": "Nelly",
+      "has_synced": true,
+      "path": "select/03_Greed_Hate_Envy_Nelly.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Hunger The Greed",
+      "artist": "Two Minds Crack",
+      "has_synced": true,
+      "path": "select/04_The_Hunger_The_Greed_Two_Minds_Crack.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "The Hunger And The Greed (7\" Version)",
+      "artist": "Two Minds Crack",
+      "has_synced": true,
+      "path": "select/05_The_Hunger_And_The_Greed_(7__Version)_Two_Minds_Crack.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Greed",
+      "artist": "Fugazi",
+      "has_synced": true,
+      "path": "select/06_Greed_Fugazi.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Greed",
+      "artist": "Faith No More",
+      "has_synced": true,
+      "path": "select/07_Greed_Faith_No_More.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "LIES GREED MISERY (Acapella)",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/08_LIES_GREED_MISERY_(Acapella)_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "LIES GREED MISERY - Dirtyphonics Remix",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/09_LIES_GREED_MISERY_-_Dirtyphonics_Remix_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "LIES GREED MISERY - Live Rock Im Park 2012",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/10_LIES_GREED_MISERY_-_Live_Rock_Im_Park_2012_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "LIES GREED MISERY (Live Rock im Park 2012)",
+      "artist": "Linkin Park",
+      "has_synced": true,
+      "path": "select/11_LIES_GREED_MISERY_(Live_Rock_im_Park_2012)_Linkin_Park.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "LIES GREED MISERY",
+      "artist": "LINKIN PARK",
+      "has_synced": true,
+      "path": "select/12_LIES_GREED_MISERY_LINKIN_PARK.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Greed",
+      "artist": "Amorphis",
+      "has_synced": true,
+      "path": "select/13_Greed_Amorphis.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Greed",
+      "artist": "Crematory",
+      "has_synced": true,
+      "path": "select/14_Greed_Crematory.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Greed (album version)",
+      "artist": "Crematory",
+      "has_synced": false,
+      "path": "select/15_Greed_(album_version)_Crematory.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Greed (single version)",
+      "artist": "Crematory",
+      "has_synced": false,
+      "path": "select/16_Greed_(single_version)_Crematory.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Greed",
+      "artist": "宮野 真守",
+      "has_synced": false,
+      "path": "select/pl_01_Greed_宮野_真守.txt"
+    }
+  ]
+}
